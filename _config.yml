@@ -1,8 +1,8 @@
 title: Coderatul
-description: A bold typographic theme inspired by Swiss design.
-social_link: twitter
-social_username: broccolini
-github_repo: athena
+description: This is a static website
+social_link: github.com/coderatul
+social_username: coderatul
+github_repo: Atulkushwaha
 github_username: broccolini
 theme_color: black
 remote_theme: internet-de-france/swiss
